@@ -1,5 +1,5 @@
 # datasci_7_geospatial
-- HHA 507 Assignment 7b - Geospatial
+- HHA 507 Assignment 7 - Geospatial
 
 ## 1. GCP Maps API:
 * Geocoding file can be found here: https://github.com/jward6301/datasci_7_geospatial/blob/main/geocoding.py
